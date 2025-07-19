@@ -8,10 +8,10 @@ This is a simple backend API built using **FastAPI** and **MongoDB**. It simulat
 ---
 ## ScreenShots
 
-    <img width="1760" height="861" alt="image" src="https://github.com/user-attachments/assets/84f2364d-d80b-4512-b608-816e9c584bb6" />
+ <img width="1760" height="861" alt="image" src="https://github.com/user-attachments/assets/84f2364d-d80b-4512-b608-816e9c584bb6" />
 
-    <img width="1657" height="952" alt="image" src="https://github.com/user-attachments/assets/3f5045da-24d5-4050-a506-890660d5b5fe" />
-    <img width="1698" height="924" alt="image" src="https://github.com/user-attachments/assets/a41164c0-d4b9-46a2-bebd-c6a6966fb12e" />
+<img width="1657" height="952" alt="image" src="https://github.com/user-attachments/assets/3f5045da-24d5-4050-a506-890660d5b5fe" />
+ <img width="1698" height="924" alt="image" src="https://github.com/user-attachments/assets/a41164c0-d4b9-46a2-bebd-c6a6966fb12e" />
 
 
 
