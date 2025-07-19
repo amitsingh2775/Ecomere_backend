@@ -41,8 +41,8 @@ This is a simple backend API built using **FastAPI** and **MongoDB**. It simulat
 
 ```bash
 # Clone the repo
-git clone <repo-url>
-cd ecommerce-backend
+https://github.com/amitsingh2775/Ecomere_backend.git
+cd Ecomere_backend
 
 # Create virtual environment
 python -m venv venv
